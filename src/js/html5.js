@@ -97,6 +97,7 @@ const html5 = {
                     quality: input,
                 });
             },
+            configurable: true,
         });
     },
 
